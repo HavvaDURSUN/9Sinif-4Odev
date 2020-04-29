@@ -1,4 +1,5 @@
 # 9Sinif-4Odev
+*ödev bitti*
 ## Çapa Fen Lisesi 9.Sınıf Fizik Dersi 4.Ödevi
 
 ## Ödevin bitiş tarihi 29 Nisan Çarşamba saat 23.00'dür. 
